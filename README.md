@@ -8,4 +8,4 @@ It was designed to look best with c and has colors for various popular packages.
 
 ## Screenshots
 
-!["A screenshot of emacs using the min oblong theme with a flowery backgound"]("/screenshots/screenshotWithbg.png")
+!["A screenshot of emacs using the min oblong theme with a flowery backgound"](/screenshots/screenshotWithbg.png)
